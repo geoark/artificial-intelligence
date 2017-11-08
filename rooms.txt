@@ -1,0 +1,3 @@
+﻿[C1][A12][SMALL]
+[C2][B][MEDIUM]
+[C3][X][LARGE]
